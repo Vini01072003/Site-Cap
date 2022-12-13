@@ -1,6 +1,6 @@
 # Site-Cap
 
-![](./img/plano_de_fundo.jpg)
+![](./img/Site-Cap.PNG)
 
 
 [Clique aqui](https://github.com/Vini01072003/Site-Cap) para acessar o site.
